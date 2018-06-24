@@ -1,0 +1,23 @@
+Structural
+
+	Tile Floor - low
+	Stonework Wall - med
+	Wood Panel Wall - med (modular)
+	Dry Wall - low
+	Wet bar - low (modular cabinets)
+	Door - low
+
+Furniture
+
+	Upholstered Square Chair with arms, metal legs - high
+	Upholstered Round Chair with Round Back, no arms, wooden legs - high
+	Slatted Wooden Chair - high
+	Upholstered Leather Bench - high
+	Glass Table - high
+	In-Wall Fireplace - med
+	TV set in Counter - med (modular)
+
+Props
+	Magazine
+	Glasses
+	Wall Art
